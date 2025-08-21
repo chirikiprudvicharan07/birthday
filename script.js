@@ -121,7 +121,7 @@ to(
   onComplete: () => {
     set('.cake__face--straining', { display: 'none' });
     set('.cake__face', { display: 'block' });
-    alert("happy birthday sruthi")
+    alert("Happy Birthday Sruthi")
   },
   x: 1,
   y: 1,
